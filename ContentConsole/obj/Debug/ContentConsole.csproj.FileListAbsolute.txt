@@ -1,0 +1,5 @@
+C:\Projects\_Euromoney\Euromoney.RecruitmentTest\ContentConsole\bin\Debug\ContentConsole.exe
+C:\Projects\_Euromoney\Euromoney.RecruitmentTest\ContentConsole\bin\Debug\ContentConsole.pdb
+C:\Projects\_Euromoney\Euromoney.RecruitmentTest\ContentConsole\obj\Debug\ContentConsole.exe
+C:\Projects\_Euromoney\Euromoney.RecruitmentTest\ContentConsole\obj\Debug\ContentConsole.pdb
+C:\Projects\_Euromoney\Euromoney.RecruitmentTest\ContentConsole\obj\Debug\ContentConsole.csprojResolveAssemblyReference.cache

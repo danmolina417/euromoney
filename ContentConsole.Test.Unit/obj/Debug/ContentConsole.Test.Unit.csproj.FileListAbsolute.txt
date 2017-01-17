@@ -1,0 +1,11 @@
+C:\Projects\_Euromoney\Euromoney.RecruitmentTest\ContentConsole.Test.Unit\bin\Debug\ContentConsole.Test.Unit.dll
+C:\Projects\_Euromoney\Euromoney.RecruitmentTest\ContentConsole.Test.Unit\bin\Debug\ContentConsole.Test.Unit.pdb
+C:\Projects\_Euromoney\Euromoney.RecruitmentTest\ContentConsole.Test.Unit\bin\Debug\ContentConsole.exe
+C:\Projects\_Euromoney\Euromoney.RecruitmentTest\ContentConsole.Test.Unit\bin\Debug\Moq.dll
+C:\Projects\_Euromoney\Euromoney.RecruitmentTest\ContentConsole.Test.Unit\bin\Debug\nunit.framework.dll
+C:\Projects\_Euromoney\Euromoney.RecruitmentTest\ContentConsole.Test.Unit\bin\Debug\ContentConsole.pdb
+C:\Projects\_Euromoney\Euromoney.RecruitmentTest\ContentConsole.Test.Unit\bin\Debug\Moq.xml
+C:\Projects\_Euromoney\Euromoney.RecruitmentTest\ContentConsole.Test.Unit\bin\Debug\nunit.framework.xml
+C:\Projects\_Euromoney\Euromoney.RecruitmentTest\ContentConsole.Test.Unit\obj\Debug\ContentConsole.Test.Unit.csprojResolveAssemblyReference.cache
+C:\Projects\_Euromoney\Euromoney.RecruitmentTest\ContentConsole.Test.Unit\obj\Debug\ContentConsole.Test.Unit.dll
+C:\Projects\_Euromoney\Euromoney.RecruitmentTest\ContentConsole.Test.Unit\obj\Debug\ContentConsole.Test.Unit.pdb
