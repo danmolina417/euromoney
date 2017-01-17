@@ -6,6 +6,43 @@ This assignment is to analyse text, detecting and filtering negative words.
 - This assignment takes between 30 minutes and an hour.
 - [NUnit](http://www.nunit.org) and [Moq](http://code.google.com/p/moq), references have been added using [NuGet](http://nuget.codeplex.com/) Packages.
 
+
+---
+
+## Notes from Dan Molina on code supplied
+
+
+
+Daniel Molian on Code for Euromoney Code Challenge
+
+Notes/Thoughts of code provided:
+
+- The content list is loaded by a static string assigned in Project.cs.  This is essentially just to test the features of the ContentManager.
+
+- Content would normally be pulled in through a ContentController that would either interface with data access layer or an ORM (Entity Framework), or pull from other sources (feeds, files, etc.).  For sake of the application challenge, I only loaded in memory, and allowed for the modification of a the content string value.
+
+- The RoleManager was set up with hardcoded simulation of security permissions, based on some hardcoded usernames.  This obviously would be removed and an implementation of a call to Authenticate and access security levels would be added.   Implementation would be based on setup/needs.
+
+- The console app has a lot of hardcoded console messages, and was done quickly to implement a user interface that satisifed the noted user stories.
+
+- ContentManager could have contained the bannedword list, but wanted to have manager less tied to a specific list.  
+
+- BannedWordList could have been modeled (implementing IEnumerable), but as this is just a List of strings, did not see the need to over architected.
+
+Anticipated implementations if time permitted:
+
+- Implementation of WebApi for services to do the following:
+  * User login, authenticate and determine roler/permissions
+  * Services to pull content from somewhere
+  * Implement a web UI and user AngularJS to consume said servies, creating a single load experience
+  
+- Complete removal of word method.
+
+- Ability to manage different filter list
+
+ 
+---
+
 ## Task requirements
 
 - All stories to be completed with an appropriate level of testing.
